@@ -26,6 +26,8 @@ namespace CapaDatos
         private string _Password;
         private string _TextoBuscar;
 
+        //esto es un comentarioo
+
         //Propiedades
 
         public string TextoBuscar
